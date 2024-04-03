@@ -1,0 +1,2 @@
+Almost at the end of the week, but not where you need to be.
+Have you looked everywhere? Even where the light does not shine (`ls -a`)?
